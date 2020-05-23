@@ -6,6 +6,7 @@
 5. navigate into repo: `cd template`
 6. activate the virtual env: `source ../bin/activate`
 7. link the activate script here. `ln -s ../bin/activate .`
-8. install pip requirements: `pip install -r requirements.txt`
-9. Setup pytest: `pip install -e .`
-10. Setup precommit hooks
+8. change "template" to your program name in setup.py
+9. install pip requirements: `pip install -r requirements.txt`
+10. Setup pytest: `pip install -e .`
+11. Setup precommit hooks
